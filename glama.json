@@ -1,0 +1,1 @@
+{"name": "NewsOracle Pro", "description": "B2B news intelligence \u2014 8 MCP tools for company news, industry pulse, digests", "category": "business", "tags": ["news", "b2b", "intelligence", "alerts"], "tools": 8, "transport": "streamable-http", "endpoint": "https://tooloracle.io/news2/mcp/"}
